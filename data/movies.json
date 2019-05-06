@@ -1,0 +1,404 @@
+{
+  "movies": [
+    {
+      "place": 1,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "duration": 142,
+      "genres": "Drama",
+      "decade": "1990s"
+    },
+    {
+      "place": 2,
+      "title": "The Godfather",
+      "year": 1972,
+      "duration": 175,
+      "genres": "Drama, Crime",
+      "decade": "1970s"
+    },
+    {
+      "place": 3,
+      "title": "The Godfather: Part II",
+      "year": 1974,
+      "duration": 152,
+      "genres": "Drama, Crime",
+      "decade": "1970s"
+    },
+    {
+      "place": 4,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "duration": 202,
+      "genres": "Action, Crime, Drama",
+      "decade": "2000s"
+    },
+    {
+      "place": 5,
+      "title": "12 Angry Men",
+      "year": 1956,
+      "duration": 154,
+      "genres": "Drama",
+      "decade": "1950s"
+    },
+    {
+      "place": 6,
+      "title": "Schindler's List",
+      "year": 1993,
+      "duration": 201,
+      "genres": "Biography, Drama, History",
+      "decade": "1990s"
+    },
+    {
+      "place": 7,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "duration": 195,
+      "genres": "Adventure, Drama, Fantasy",
+      "decade": "2000s"
+    },
+    {
+      "place": 8,
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "duration": 178,
+      "genres": "Crime, Drama",
+      "decade": "1990s"
+    },
+    {
+      "place": 9,
+      "title": "Il buono, il brutto, il cattivo",
+      "year": 1966,
+      "duration": 96,
+      "genres": "Western",
+      "decade": "1960s"
+    },
+    {
+      "place": 10,
+      "title": "Fight Club",
+      "year": 1999,
+      "duration": 148,
+      "genres": "Drama",
+      "decade": "1990s"
+    },
+    {
+      "place": 11,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "duration": 131,
+      "genres": "Adventure, Drama, Fantasy ",
+      "decade": "2000s"
+    },
+    {
+      "place": 12,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "duration": 142,
+      "genres": "Drama, Romance",
+      "decade": "1990s"
+    },
+    {
+      "place": 13,
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "duration": 178,
+      "genres": "Action, Adventure, Fantasy",
+      "decade": "1980s"
+    },
+    {
+      "place": 14,
+      "title": "Inception",
+      "year": 2010,
+      "duration": 136,
+      "genres": "Action, Adventure, Sci-Fi",
+      "decade": "2010s"
+    },
+    {
+      "place": 15,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "duration": 179,
+      "genres": "Adventure, Drama, Fantasy",
+      "decade": "2000s"
+    },
+    {
+      "place": 16,
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975,
+      "duration": 124,
+      "genres": "Drama",
+      "decade": "1970s"
+    },
+    {
+      "place": 17,
+      "title": "Goodfellas",
+      "year": 1990,
+      "duration": 140,
+      "genres": "Biography, Crime, Drama",
+      "decade": "1990s"
+    },
+    {
+      "place": 18,
+      "title": "The Matrix",
+      "year": 1999,
+      "duration": 133,
+      "genres": "Action, Sci-Fi",
+      "decade": "1990s"
+    },
+    {
+      "place": 19,
+      "title": "Shichinin no samurai",
+      "year": 1954,
+      "duration": 207,
+      "genres": "Adventure, Drama",
+      "decade": "1950s"
+    },
+    {
+      "place": 20,
+      "title": "Se7en",
+      "year": 1995,
+      "duration": 169,
+      "genres": "Crime, Drama, Mystery",
+      "decade": "1990s"
+    },
+    {
+      "place": 21,
+      "title": "Cidade de Deus",
+      "year": 2002,
+      "duration": 127,
+      "genres": "Crime, Drama",
+      "decade": "2000s"
+    },
+    {
+      "place": 22,
+      "title": "Star Wars",
+      "year": 1977,
+      "duration": 114,
+      "genres": "Action, Adventure, Fantasy",
+      "decade": "1970s"
+    },
+    {
+      "place": 23,
+      "title": "The Silence of the Lambs",
+      "year": 1990,
+      "duration": 121,
+      "genres": "Crime, Drama, Thriller",
+      "decade": "1990s"
+    },
+    {
+      "place": 24,
+      "title": "It's a Wonderful Life",
+      "year": 1947,
+      "duration": 169,
+      "genres": "Drama, Family, Fantasy",
+      "decade": "1940s"
+    },
+    {
+      "place": 25,
+      "title": "La vita è bella",
+      "year": 1997,
+      "duration": 189,
+      "genres": "Comedy, Drama, Romance",
+      "decade": "1990s"
+    },
+    {
+      "place": 26,
+      "title": "Sen to Chihiro no kamikakushi",
+      "year": 2001,
+      "duration": 133,
+      "genres": "Animation, Adventure, Family",
+      "decade": "2000s"
+    },
+    {
+      "place": 27,
+      "title": "Saving Private Ryan",
+      "year": 1998,
+      "duration": 106,
+      "genres": "Drama, War",
+      "decade": "1990s"
+    },
+    {
+      "place": 28,
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "duration": 130,
+      "genres": "Crime, Mystery, Thriller",
+      "decade": "1990s"
+    },
+    {
+      "place": 29,
+      "title": "Leon",
+      "year": 1994,
+      "duration": 125,
+      "genres": "Action, Crime, Drama",
+      "decade": "1990s"
+    },
+    {
+      "place": 30,
+      "title": "The Green Mile",
+      "year": 1999,
+      "duration": 116,
+      "genres": "Crime, Drama, Fantasy",
+      "decade": "1990s"
+    },
+    {
+      "place": 31,
+      "title": "Interstellar",
+      "year": 2014,
+      "duration": 130,
+      "genres": "Adventure, Drama, Sci-Fi",
+      "decade": "2010s"
+    },
+    {
+      "place": 32,
+      "title": "Psycho",
+      "year": 1960,
+      "duration": 155,
+      "genres": "Horror, Mystery, Thriller",
+      "decade": "1960s"
+    },
+    {
+      "place": 33,
+      "title": "American History X",
+      "year": 1998,
+      "duration": 151,
+      "genres": "Drama",
+      "decade": "1990s"
+    },
+    {
+      "place": 34,
+      "title": "City Lights",
+      "year": 1931,
+      "duration": 125,
+      "genres": "Comedy, Drama, Romance",
+      "decade": "1930s"
+    },
+    {
+      "place": 35,
+      "title": "Casablanca",
+      "year": 1942,
+      "duration": 113,
+      "genres": "Drama, Romance, War",
+      "decade": "1940s"
+    },
+    {
+      "place": 36,
+      "title": "C'era una volta il West",
+      "year": 1968,
+      "duration": 119,
+      "genres": "Western",
+      "decade": "1960s"
+    },
+    {
+      "place": 37,
+      "title": "The Pianist",
+      "year": 2002,
+      "duration": 116,
+      "genres": "Biography, Drama, Music",
+      "decade": "2000s"
+    },
+    {
+      "place": 38,
+      "title": "Modern Times",
+      "year": 1936,
+      "duration": 131,
+      "genres": "Comedy, Drama, Family",
+      "decade": "1930s"
+    },
+    {
+      "place": 39,
+      "title": "Intouchables",
+      "year": 2011,
+      "duration": 88,
+      "genres": "Biography, Comedy, Drama",
+      "decade": "2010s"
+    },
+    {
+      "place": 40,
+      "title": "The Departed",
+      "year": 2006,
+      "duration": 115,
+      "genres": "Crime, Drama, Thriller",
+      "decade": "2000s"
+    },
+    {
+      "place": 41,
+      "title": "Back to the Future",
+      "year": 1985,
+      "duration": 116,
+      "genres": "Adventure, Comedy, Sci-Fi",
+      "decade": "1980s"
+    },
+    {
+      "place": 42,
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "duration": 112,
+      "genres": "Action, Sci-Fi",
+      "decade": "1990s"
+    },
+    {
+      "place": 43,
+      "title": "Whiplash",
+      "year": 2013,
+      "duration": 149,
+      "genres": "Drama, Music",
+      "decade": "2010s"
+    },
+    {
+      "place": 44,
+      "title": "Rear Window",
+      "year": 1954,
+      "duration": 149,
+      "genres": "Mystery, Thriller",
+      "decade": "1950s"
+    },
+    {
+      "place": 45,
+      "title": "The Lion King",
+      "year": 1994,
+      "duration": 106,
+      "genres": "Animation, Adventure, Drama",
+      "decade": "1990s"
+    },
+    {
+      "place": 46,
+      "title": "Raiders of the Lost Ark",
+      "year": 1981,
+      "duration": 194,
+      "genres": "Action, Adventure",
+      "decade": "1980s"
+    },
+    {
+      "place": 47,
+      "title": "Gladiator",
+      "year": 2000,
+      "duration": 109,
+      "genres": "Action, Adventure, Drama",
+      "decade": "2000s"
+    },
+    {
+      "place": 48,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "duration": 103,
+      "genres": "Animation, Action, Adventure",
+      "decade": "2010s"
+    },
+    {
+      "place": 49,
+      "title": "The Prestige",
+      "year": 2006,
+      "duration": 112,
+      "genres": "Drama, Mystery, Sci-Fi",
+      "decade": "2000s"
+    },
+    {
+      "place": 50,
+      "title": "Apocalypse Now",
+      "year": 1979,
+      "duration": 165,
+      "genres": "Drama, War",
+      "decade": "1970s"
+    }
+   ]
+}

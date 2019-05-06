@@ -1,0 +1,220 @@
+{
+  "rules": [
+    {
+      "genre": "Drama",
+      "ruleFlag": "blue",
+      "ruleMatchType": "contains",
+      "ruleId": 1
+    },
+    {
+      "genre": "Crime",
+      "ruleFlag": "orange",
+      "ruleMatchType": "contains",
+      "ruleId": 2
+    },
+    {
+      "genre": "Biography",
+      "ruleFlag": "green",
+      "ruleMatchType": "contains",
+      "ruleId": 3
+    },
+    {
+      "genre": "Action",
+      "ruleFlag": "orange",
+      "ruleMatchType": "contains",
+      "ruleId": 4
+    },
+    {
+      "genre": "Adventure",
+      "ruleFlag": "blue",
+      "ruleMatchType": "contains",
+      "ruleId": 5
+    },
+    {
+      "genre": "History",
+      "ruleFlag": "green",
+      "ruleMatchType": "contains",
+      "ruleId": 6
+    },
+    {
+      "genre": "Fantasy",
+      "ruleFlag": "blue",
+      "ruleMatchType": "contains",
+      "ruleId": 7
+    },
+    {
+      "genre": "Romance",
+      "ruleFlag": "yellow",
+      "ruleMatchType": "contains",
+      "ruleId": 8
+    },
+    {
+      "genre": "Western",
+      "ruleFlag": "orange",
+      "ruleMatchType": "contains",
+      "ruleId": 9
+    },
+    {
+      "genre": "Sci-Fi",
+      "ruleFlag": "blue",
+      "ruleMatchType": "contains",
+      "ruleId": 10
+    },
+    {
+      "genre": "Mystery ",
+      "ruleFlag": "blue",
+      "ruleMatchType": "contains",
+      "ruleId": 11
+    },
+    {
+      "genre": "Comedy",
+      "ruleFlag": "yellow",
+      "ruleMatchType": "contains",
+      "ruleId": 12
+    },
+    {
+      "genre": "Thriller",
+      "ruleFlag": "red",
+      "ruleMatchType": "contains",
+      "ruleId": 13
+    },
+    {
+      "genre": "Animation",
+      "ruleFlag": "yellow",
+      "ruleMatchType": "contains",
+      "ruleId": 14
+    },
+    {
+      "genre": "Family",
+      "ruleFlag": "yellow",
+      "ruleMatchType": "contains",
+      "ruleId": 15
+    },
+    {
+      "genre": "War",
+      "ruleFlag": "red",
+      "ruleMatchType": "contains",
+      "ruleId": 16
+    },
+    {
+      "genre": "Horror",
+      "ruleFlag": "red",
+      "ruleMatchType": "contains",
+      "ruleId": 17
+    },
+    {
+      "genre": "Music",
+      "ruleFlag": "yellow",
+      "ruleMatchType": "contains",
+      "ruleId": 18
+    },
+    {
+      "genre": "Drama",
+      "ruleFlag": "blue",
+      "ruleMatchType": "startsWith",
+      "ruleId": 19
+    },
+    {
+      "genre": "Crime",
+      "ruleFlag": "orange",
+      "ruleMatchType": "startsWith",
+      "ruleId": 20
+    },
+    {
+      "genre": "Biography",
+      "ruleFlag": "green",
+      "ruleMatchType": "startsWith",
+      "ruleId": 21
+    },
+    {
+      "genre": "Action",
+      "ruleFlag": "orange",
+      "ruleMatchType": "startsWith",
+      "ruleId": 22
+    },
+    {
+      "genre": "Adventure",
+      "ruleFlag": "blue",
+      "ruleMatchType": "startsWith",
+      "ruleId": 23
+    },
+    {
+      "genre": "History",
+      "ruleFlag": "green",
+      "ruleMatchType": "startsWith",
+      "ruleId": 24
+    },
+    {
+      "genre": "Fantasy",
+      "ruleFlag": "blue",
+      "ruleMatchType": "startsWith",
+      "ruleId": 25
+    },
+    {
+      "genre": "Romance",
+      "ruleFlag": "yellow",
+      "ruleMatchType": "startsWith",
+      "ruleId": 26
+    },
+    {
+      "genre": "Western",
+      "ruleFlag": "orange",
+      "ruleMatchType": "startsWith",
+      "ruleId": 27
+    },
+    {
+      "genre": "Sci-Fi",
+      "ruleFlag": "blue",
+      "ruleMatchType": "startsWith",
+      "ruleId": 28
+    },
+    {
+      "genre": "Mystery ",
+      "ruleFlag": "blue",
+      "ruleMatchType": "startsWith",
+      "ruleId": 29
+    },
+    {
+      "genre": "Comedy",
+      "ruleFlag": "yellow",
+      "ruleMatchType": "startsWith",
+      "ruleId": 30
+    },
+    {
+      "genre": "Thriller",
+      "ruleFlag": "red",
+      "ruleMatchType": "startsWith",
+      "ruleId": 31
+    },
+    {
+      "genre": "Animation",
+      "ruleFlag": "yellow",
+      "ruleMatchType": "startsWith",
+      "ruleId": 32
+    },
+    {
+      "genre": "Family",
+      "ruleFlag": "yellow",
+      "ruleMatchType": "startsWith",
+      "ruleId": 33
+    },
+    {
+      "genre": "War",
+      "ruleFlag": "red",
+      "ruleMatchType": "startsWith",
+      "ruleId": 34
+    },
+    {
+      "genre": "Horror",
+      "ruleFlag": "red",
+      "ruleMatchType": "startsWith",
+      "ruleId": 35
+    },
+    {
+      "genre": "Music",
+      "ruleFlag": "yellow",
+      "ruleMatchType": "startsWith",
+      "ruleId": 36
+    }
+   ]
+}
