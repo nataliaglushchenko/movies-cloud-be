@@ -17,6 +17,25 @@ app.get('/movies', (req, res) => {
     res.json(movies);
 });
 
+app.get('/matched-movies/:genre/:ruleMatchType', (req, res) => {
+    console.log(`get /matched-movies/${req.params.genre}/${req.params.ruleMatchType}` );
+
+    const { genre, ruleMatchType } = req.params;
+
+    const matchedMovies = movies.filter(movie => {
+        switch (ruleMatchType) {
+            case 'contains': 
+                return movie.genres.toLowerCase().includes(genre);
+            case 'startsWith':
+                return movie.genres.toLowerCase().startsWith(genre);
+            default: 
+                return false;
+        }
+    });
+
+    res.json(matchedMovies);
+});
+
 app.get('/rules', (req, res) => {
     res.json(rules);
 });
